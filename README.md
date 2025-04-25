@@ -2,6 +2,17 @@
 
 **Edusity** is a fully responsive, modern educational website built using **ReactJS**, designed to showcase programs, testimonials, campus life, and more. The site features smooth animations, a popup video player, contact form integration via Web3Forms, and seamless navigation.
 
+
+---
+
+## 📸 Screenshots
+
+![Homepage Screenshot](./src/assets/screenshots/1.png)
+*Home*
+
+![Programs Section Screenshot](./src/assets/screenshots/2.png)
+*Programs Section*
+
 ---
 
 ## 🚀 Tech Stack
